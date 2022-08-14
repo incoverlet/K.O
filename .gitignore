@@ -72,3 +72,23 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+KO/Saved/Logs/KO.log
+KO/Intermediate/CachedAssetRegistry.bin
+KO/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+KO/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+KO/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+KO/Saved/Autosaves/PackageRestoreData.json
+KO/Saved/AutoScreenshot.png
+KO/Intermediate/CachedAssetRegistry.bin
+KO/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+KO/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+KO/Saved/Config/CrashReportClient/UECC-Windows-9BC3577B471466441BF3A5ACE45D08E0/CrashReportClient.ini
+KO/Saved/Config/WindowsEditor/SourceControlSettings.ini
+KO/Saved/Logs/KO-backup-2022.08.14-11.52.21.log
+KO/Saved/Logs/KO.log
+KO/Saved/Config/WindowsEditor/Engine.ini
+KO/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
+KO/Saved/Autosaves/PackageRestoreData.json
+KO/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+KO/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+KO/Intermediate/CachedAssetRegistry.bin
