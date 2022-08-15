@@ -92,3 +92,12 @@ KO/Saved/Autosaves/PackageRestoreData.json
 KO/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
 KO/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
 KO/Intermediate/CachedAssetRegistry.bin
+#saved
+
+/Saved
+/Intermediate
+/.vs
+/Build
+/Plugins
+*.sln
+*_BuiltData.uasset
