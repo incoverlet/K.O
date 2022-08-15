@@ -97,7 +97,4 @@ KO/Intermediate/CachedAssetRegistry.bin
 Saved/
 Intermediate/
 .vs/
-Build/
-Plugins/
 *.sln
-*_BuiltData.uasset
